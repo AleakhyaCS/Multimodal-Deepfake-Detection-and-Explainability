@@ -13,3 +13,5 @@ This project aims to develop a robust system for detecting deepfakes using a mul
 - **Interactive Jupyter Notebook**: A notebook is provided for experimentation and demonstration of detection capabilities
 
 Data Src: https://sites.google.com/view/fakeavcelebdash-lab/home
+
+[Deepfake Detection App](https://multimodal-deepfake-detection-and-explainability.streamlit.app/)
